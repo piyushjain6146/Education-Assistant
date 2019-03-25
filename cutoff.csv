@@ -1,0 +1,122 @@
+iit_name,dept_name,open_opening,open_closing,obc_opening,obc_closing,sc_opening,sc_closing,st_opening,st_closing
+IIT Bombay,Aerospace Engineering,1040,2053,703,1074,158,492,56,230
+IIT Kanpur,Aerospace Engineering,1800,3174,1070,1447,545,812,258,290
+IIT Kharagpur,Aerospace Engineering,2408,3464,1214,1685,254,655,331,354
+IIT Madras,Aerospace Engineering,1270,2706,875,1268,292,798,377,416
+IIT Guwahati,Biotechnology,5543,8265,3056,3907,1164,1989,901,455P
+IIT Roorkee,Biotechnology,4577,7074,3030,3346,1372,1741,897,126P
+IIT Jodhpur,Biotechnology,7078,11224,2986,4599,1788,2261,28P,244P
+IIT Varanasi,Civil Engineering,4411,6740,1724,2457,615,1168,281,366
+IIT Dhanbad,Civil Engineering,4931,8554,2322,2901,1238,1321,363,440
+IIT BhubaneswarCivil Engineering,5057,8116,1649,2825,1054,1284,407,430
+IIT Bombay,Civil Engineering,1443,2544,601,1086,172,439,93,139
+IIT Delhi,Civil Engineering,792,3107,743,1224,153,491,29,87
+IIT Gandhinagar,Civil Engineering,3747,7542,2320,2690,493,1281,307,357
+IIT Guwahati,Civil Engineering,3748,5890,1721,2146,698,935,247,344
+IIT Hyderabad,Civil Engineering,3764,5988,1391,2274,695,947,271,377
+IIT Indore,Civil Engineering,5568,7207,1968,2780,904,1242,335,413
+IIT Jammu,Civil Engineering,8223,10085,2929,3739,1462,1853,510,510
+IIT Kanpur,Civil Engineering,2229,3707,730,1587,423,698,172,216
+IIT Kharagpur,Civil Engineering,3231,4078,1169,1605,418,697,190,257
+IIT Madras,Civil Engineering,2525,3748,664,1433,348,568,143,209
+IIT Mandi,Civil Engineering,6247,8253,2506,3161,1320,1586,353,399
+IIT Palakkad,Civil Engineering,7259,9252,2903,3416,1507,1749,498,501
+IIT Patna,Civil Engineering,6430,8674,2383,2993,1079,1511,419,419
+IIT Roorkee,Civil Engineering,3268,4756,1022,1809,359,758,100,244
+IIT Ropar,Civil Engineering,5548,8333,2601,3178,1129,1529,287,422
+IIT Tirupati,Civil Engineering,6296,9219,2754,3326,1000,1761,446,446
+IIT Bombay,Chemical Engineering,653,1721,539,975,211,626,144,332
+IIT Delhi,Chemical Engineering,1141,1874,547,1148,304,636,217,337
+IIT Kharagpur,Chemical Engineering,2285,3263,802,1519,625,874,382,551
+IIT Hyderabad,Chemical Engineering,3829,5921,1749,2163,1004,1291,579,674
+IIT Kanpur,Chemical Engineering,1833,3171,863,1416,542,887,473,541
+IIT Madras,Chemical Engineering,1582,2655,949,1346,411,839,367,609
+IIT Gandhinagar,Chemical Engineering,4219,6180,2302,2898,1366,1584,601,827
+IIT Patna,Chemical Engineering,6525,8746,2719,3432,1455,1700,797,825
+IIT Roorkee,Chemical Engineering,2470,3966,1375,1902,893,1095,442,669
+IIT Dhanbad,Chemical Engineering,5943,8360,2535,3097,1431,1693,669,916
+IIT Ropar,Chemical Engineering,5625,7931,2898,3457,1356,1720,810,91P
+IIT Varanasi,Chemical Engineering,4116,6272,1902,2930,924,1431,702,810
+IIT Guwahati,Chemical Engineering,3015,4890,1795,2381,941,1182,426,703
+IIT Tirupati,Chemical Engineering,7336,9469,3034,3709,1660,1922,717,134P
+IIT Jammu,Chemical Engineering,8258,10800,3280,4160,1681,2116,840,179P
+IIT Ropar,Computer Science and Engineering,1315,2083,558,911,379,646,341,401
+IIT Delhi,Computer Science and Engineering,3,100,38,65,16,31,12,25
+IIT Madras,Computer Science and Engineering,51,200,49,89,22,63,13,37
+IIT Palakkad,Computer Science and Engineering,3228,4933,1455,1889,738,1202,596,611
+IIT Patna,Computer Science and Engineering,999,2731,729,1058,428,715,347,412
+IIT Kharagpur,Computer Science and Engineering,92,272,47,137,21,73,23,47
+IIT Tirupati,Computer Science and Engineering,2834,3850,1226,1774,849,1000,232,511
+IIT Guwahati,Computer Science and Engineering,333,554,210,304,117,149,35,122
+IIT Hyderabad,Computer Science and Engineering,445,777,145,311,88,185,104,136
+IIT Roorkee,Computer Science and Engineering,278,416,138,225,77,108,58,82
+IIT Jammu,Computer Science and Engineering,3187,5484,1398,2301,981,1224,642,750
+IIT Bhubaneswar,Computer Science and Engineering,1404,2092,501,861,56,422,159,254
+IIT Indore,Computer Science and Engineering,806,1264,289,496,217,340,92,214
+IIT Bombay,Computer Science and Engineering,1,59,9,37,1,14,1,9
+IIT Dharwad,Computer Science and Engineering,2671,4971,1195,1959,528,1110,602,643
+IIT Bhilai,Computer Science and Engineering,3702,5423,1018,1976,807,1171,563,625
+IIT Varansi,Computer Science and Engineering,527,908,235,375,137,246,135,151
+IIT Goa,Computer Science and Engineering,2904,4045,1403,1757,764,866,474,593
+IIT Jodhpur,Computer Science and Engineering,2092,2997,818,1226,715,849,323,454
+IIT Mandi,Computer Science and Engineering,1401,2715,854,1143,377,745,222,555
+IIT Gandhinagar,Computer Science and Engineering,956,1147,533,771,62,480,242,246
+IIT Kanpur,Computer Science and Engineering,103,213,62,145,33,74,27,49
+IIT Dhanbad,Computer Science and Engineering,1182,2940,435,1089,171,613,238,371
+IIT Roorkee,Electronics and Communication Engineering,915,1266,313,622,140,402,124,297
+IIT Guwahati,Electronics and Communication Engineering,1063,1564,185,759,300,520,226,328
+IIT Bhubaneswar,Electronics and Communication Engineering,2124,3500,766,1336,595,861,378,478
+IIT Dhanbad,Electronics and Communication Engineering,2961,5070,1281,1838,696,1163,480,547
+IIT Ropar,Mechanical Engineering,4327,6033,1762,2637,1049,1359,508,597
+IIT Delhi,Mechanical Engineering,545,1025,327,547,166,226,18,77
+IIT Madras,Mechanical Engineering,689,1333,269,581,98,302,51,103
+IIT Palakkad,Mechanical Engineering,4501,7987,2623,2982,1563,1783,662,776
+IIT Patna,Mechanical Engineering,3019,7053,2077,2587,1005,1576,455,631
+IIT Kharagpur,Mechanical Engineering,1093,1745,528,722,220,305,133,200
+IIT Tirupati,Mechanical Engineering,5606,7943,2149,3012,1273,1692,615,646
+IIT Guwahati,Mechanical Engineering,1681,2942,965,1223,449,664,206,398
+IIT Hyderabad,Mechanical Engineering,2060,3192,762,1250,429,708,103,271
+IIT Roorkee,Mechanical Engineering,1682,2485,691,1029,376,594,196,277
+IIT Jammu,Mechanical Engineering,7599,8845,3041,3382,1568,1710,690,695
+IIT Bhubaneswar,Mechanical Engineering,3752,5102,1427,2125,743,1080,461,475
+IIT Indore,Mechanical Engineering,3168,4905,1226,1895,609,1022,388,444
+IIT Bombay,Mechanical Engineering,305,848,117,449,38,180,11,67
+IIT Dharwad,Mechanical Engineering,5623,8397,1616,3129,1009,1800,636,793
+IIT Bhilai,Mechanical Engineering,6187,8442,2342,3273,1434,1546,337,665
+IIT Varansi,Mechanical Engineering,2801,4146,1165,1599,735,962,298,425
+IIT Goa,Mechanical Engineering,5745,7857,2079,3151,994,1643,418,666
+IIT Jodhpur,Mechanical Engineering,4359,7039,1879,2766,1124,1594,445,554
+IIT Mandi,Mechanical Engineering,4905,6410,2174,2704,1137,1494,550,595
+IIT Gandhinagar,Mechanical Engineering,2387,4229,1538,1885,889,1038,320,466
+IIT Kanpur,Mechanical Engineering,909,1611,551,711,262,414,107,196
+IIT Dhanbad,Mechanical Engineering,3782,6559,1711,2287,879,1286,463,571
+IIT Varanasi,Mining Engineering,6609,10230,2605,4062,1407,1999,825,477P
+IIT Kharagpur,Mining Engineering,4566,6371,2190,2956,1132,1525,390,824
+IIT Dhanbad,Mining Engineering,5321,9567,2720,3656,816,1915,527,127P
+IIT Bhubaneswar,Metallurgical and Materials Engineering,6920,9177,2999,3377,1700,1932,859,188P
+IIT Kharagpur,Metallurgical and Materials Engineering,3790,4758,1944,2257,1078,1270,633,780
+IIT Madras,Metallurgical and Materials Engineering,3111,4218,1667,1984,842,1121,661,676
+IIT Roorkee,Metallurgical and Materials Engineering,4572,6437,1908,2950,1229,1517,682,889
+IIT Ropar,Metallurgical and Materials Engineering,7989,9590,3440,3992,1796,1984,105P,558P
+IIT Varanasi,Electrical Engineering,1843,3016,908,1356,594,782,250,374
+IIT Dhanbad,Electrical Engineering,2894,5821,1534,2111,836,1256,368,497
+IIT Bhilai,Electrical Engineering,6045,7778,2533,2948,1467,1660,597,671
+IIT Bhubaneswar,Electrical Engineering,3249,4492,1546,1860,874,1029,421,505
+IIT Bombay,Electrical Engineering,43,265,50,177,17,76,14,45
+IIT Delhi,Electrical Engineering,172,462,102,271,32,113,19,69
+IIT Dharwad,Electrical Engineering,4404,7869,2223,3007,1110,1715,512,762
+IIT Gandhinagar,Electrical Engineering,1627,3099,810,1609,591,897,376,379
+IIT Goa,Electrical Engineering,4621,7223,2415,2738,958,1477,460,566
+IIT Hyderabad,Electrical Engineering,1146,2090,570,920,527,612,94,164
+IIT Indore,Electrical Engineering,1911,3417,1213,1546,673,884,318,421
+IIT Jammu,Electrical Engineering,5387,8289,2426,3280,1542,1634,534,687
+IIT Jodhpur,Electrical Engineering,3205,5902,2073,2567,991,1422,413,557
+IIT Kanpur,Electrical Engineering,324,803,182,484,116,216,72,141
+IIT Kharagpur,Electrical Engineering,612,1101,274,565,197,220,59,136
+IIT Madras,Electrical Engineering,216,568,67,279,89,152,57,86
+IIT Mandi,Electrical Engineering,3264,5299,1242,2316,1183,1400,433,512
+IIT Palakkad,Electrical Engineering,5597,7449,2443,2771,1331,1728,599,715
+IIT Patna,Electrical Engineering,3127,5841,1617,2211,863,1393,482,564
+IIT Roorkee,Electrical Engineering,1101,1735,557,799,223,799,223,446,71,243
+IIT Ropar,Electrical Engineering,2352,4822,1320,2073,939,1255,424,470
+IIT Tirupati,Electrical Engineering,4785,6788,1591,2422,988,1598,494,694
